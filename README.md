@@ -17,7 +17,8 @@ All commands are neatly organized by category for quick access and long-term mai
 ---
 
 ## 📦 Environment & Package Managers
-- [Pixi Commands](./commands/environment/Pixi_Commands.md)  
+- [Pixi Commands](./commands/environment/Pixi_Commands.md)
+- [Rust & Cargo Commands](./commands/environment/Rust_Commands.md)
 - [UV Commands](./commands/environment/UV_Commands.md)  
 
 ---
