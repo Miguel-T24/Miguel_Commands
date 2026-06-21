@@ -39,7 +39,7 @@ All commands are neatly organized by category for quick access and long-term mai
 ---
 
 ## 📚 Self-Hosted Apps & Deployments
-- [BookStack Deployment & Docker Compose](./commands/apps/BookStack_Deployment.md)
+- [BookStack Deployment & Docker Compose](./commands/apps/bookstack)
 
 ---
 
