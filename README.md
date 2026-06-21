@@ -11,7 +11,9 @@ All commands are neatly organized by category for quick access and long-term mai
    - [🧱 Docker](#-docker)
    - [💻 WSL2](#-wsl2)
 3. [🌐 Nginx Reverse Proxy & SSL Setup](#-nginx-reverse-proxy--ssl-setup)
-4. [🐧 Linux Commands](#-linux-commands)
+4. [📚 Self-Hosted Apps & Deployments](#-self-hosted-apps--deployments)
+5. [🐧 Linux Commands](#-linux-commands)
+
 ---
 
 ## 📦 Environment & Package Managers
@@ -33,6 +35,11 @@ All commands are neatly organized by category for quick access and long-term mai
 
 ## 🌐 Nginx Reverse Proxy & SSL Setup
 - [Nginx & Certbot Deployment Guide](./commands/nginx/Nginx_Reverse_Proxy.md)
+
+---
+
+## 📚 Self-Hosted Apps & Deployments
+- [BookStack Deployment & Docker Compose](./commands/apps/BookStack_Deployment.md)
 
 ---
 
