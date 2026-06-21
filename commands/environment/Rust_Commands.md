@@ -14,6 +14,8 @@ Quick reference guide for managing the Rust toolchain, building projects, and ex
 | **Project Lifecycle** | Create a new binary application | `cargo new my_app` | `cargo new my_app` |
 | | Create a new library | `cargo new my_lib --lib` | `cargo new my_lib --lib` |
 | | Check code for compilation errors (fast) | `cargo check` | `cargo check` |
+| **Dependencies Management** | Add Actix Web framework | `cargo add actix-web` | `cargo add actix-web` |
+| | Add Serde with serialization features | `cargo add serde --features derive` | `cargo add serde --features derive` |
 | **Build & Compilation** | Build project in development mode | `cargo build` | `cargo build` |
 | | Build optimized production binary | `cargo build --release` | `cargo build --release` |
 | **Cleanup & Maintenance** | Remove build artifacts / `target` folder | `cargo clean` | `cargo clean` |
