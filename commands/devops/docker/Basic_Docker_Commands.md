@@ -36,6 +36,7 @@
 | Eliminar un volumen | ```docker volume rm <nombre>``` |
 | Levantar servicios definidos en docker-compose.yml | ```docker compose up``` |
 | Levantar los servicios en segundo plano | ```docker compose up -d``` |
+| contruir el docker ya creado isn danar lo que esta corriendo| ```docker compose up -d --build``` |
 | Detener y eliminar los servicios del compose | ```docker compose down``` |
 | Listar servicios activos del compose | ```docker compose ps``` |
 | Ver logs en tiempo real de todos los servicios | ```docker compose logs -f``` |
